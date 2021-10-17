@@ -1,2 +1,3 @@
 # Hello-world
-This is my first repository, i'll show you about i'm learning
+This is my first repository, I'll show you what I'm learning and my first projects
+I program in python and in the future I want to learn Javascript
